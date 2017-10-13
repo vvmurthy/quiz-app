@@ -13,3 +13,15 @@ FEATURES:
 * Uses simple styles
 * Uses JSX Ternary operator
 * Uses `fetch()` API to make a GET call
+
+<p align="center">
+  <img src="images/normal.png" width="350"/>
+</p>
+
+<p align="center">
+  <img src="images/right.png" width="350"/>
+</p>
+
+<p align="center">
+  <img src="images/wrong.png" width="350"/>
+</p>
